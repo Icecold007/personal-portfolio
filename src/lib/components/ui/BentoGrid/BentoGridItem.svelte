@@ -13,8 +13,8 @@
 	export let id;
 	export let spareImg;
 	export let img;
-	const leftLists = ['Svelte', 'Express', 'Typescript'];
-	const rightLists = ['Sveltekit', 'Firebase', 'GraphQL'];
+	const leftLists = ['Svelte', 'Tailwind', 'Typescript'];
+	const rightLists = ['Sveltekit', 'Firebase', 'JavaScript'];
 	let copied = false;
 
 	function handleCopy() {

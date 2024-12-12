@@ -105,7 +105,7 @@ export const projects = [
 		id: 4,
 		title: 'People Counter',
 		des: 'A counting tool which comes in handy',
-		img: '/p4.png',
+		img: 'p4.png',
 		technologies: ['HTML', 'CSS', 'JAVASCRIPT'],
 
 		link: 'https://icecold007.github.io/people-counter/',

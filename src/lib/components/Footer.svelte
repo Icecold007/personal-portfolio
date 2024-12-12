@@ -11,7 +11,7 @@
 
 	<div class="flex flex-col items-center">
 		<h1 class="heading text-white lg:max-w-[45vw]">
-			Ready to take <span class="text-purple">your</span> digital presence to the next level?
+			Let&apos;s bring <span class="text-purple">ideas</span> to life.
 		</h1>
 		<p class="my-5 text-center text-white-200 md:mt-10">
 			Reach out to me today and let&apos;s discuss how I can help you achieve your goals.
