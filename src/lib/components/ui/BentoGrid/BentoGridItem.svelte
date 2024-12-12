@@ -14,11 +14,12 @@
 	export let spareImg;
 	export let img;
 	const leftLists = ['Svelte', 'Tailwind', 'Typescript'];
-	const rightLists = ['Sveltekit', 'Firebase', 'JavaScript'];
+	const rightLists = ['Sveltekit', 'Firebase', 'Supabase'];
 	let copied = false;
 
 	function handleCopy() {
 		const text = 'anuragsaud05@gmail.com';
+
 		navigator.clipboard.writeText(text);
 		copied = true;
 		lottie.loadAnimation({
